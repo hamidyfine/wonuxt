@@ -1,4 +1,4 @@
-# wonuxt
+# WoNuxt
 
 ## Build Setup
 
